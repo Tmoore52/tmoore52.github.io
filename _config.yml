@@ -1,0 +1,12 @@
+# Site settings
+title: Tyler Moore | Writer & Developer
+email: tmoore5252@yahoo.com
+description: A simple blog by Tyler Moore. Will update with stories I write and whenever I work on new code I like and feel like writing out.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: tmooreindahouse  
+github_username:  Tmoore52
+
+# Build settings
+markdown: kramdown
+permalink: /:title
